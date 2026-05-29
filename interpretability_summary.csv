@@ -1,0 +1,19 @@
+Method,Factor,Macro,Corr
+PCA,Level,Spread_10y_2y,-0.205
+PCA,Level,CPI,0.5362
+PCA,Level,BankRate,0.8878
+PCA,Slope,Spread_10y_2y,-0.8076
+PCA,Slope,CPI,-0.2486
+PCA,Slope,BankRate,0.0683
+PCA,Curvature,Spread_10y_2y,-0.0365
+PCA,Curvature,CPI,-0.1082
+PCA,Curvature,BankRate,0.0695
+AE,TopFactor_1 (latent #4),Spread_10y_2y,-0.0981
+AE,TopFactor_1 (latent #4),CPI,0.738
+AE,TopFactor_1 (latent #4),BankRate,0.8275
+AE,TopFactor_2 (latent #3),Spread_10y_2y,-0.2306
+AE,TopFactor_2 (latent #3),CPI,0.781
+AE,TopFactor_2 (latent #3),BankRate,0.8603
+AE,TopFactor_3 (latent #10),Spread_10y_2y,0.4384
+AE,TopFactor_3 (latent #10),CPI,-0.1261
+AE,TopFactor_3 (latent #10),BankRate,-0.7937
