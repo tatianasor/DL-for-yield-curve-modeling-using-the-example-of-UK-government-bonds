@@ -1,0 +1,7 @@
+Factor,Macro,Corr_levels,Corr_diffs,Delta_abs
+Level,BankRate,0.8878,0.011,0.8768
+Slope,Spread_10y_2y,-0.8076,-0.8099,-0.0024
+Curvature,CPI,-0.1082,0.0175,0.0907
+Level,CPI,0.5362,-0.0098,0.5264
+Slope,BankRate,0.0683,0.1019,-0.0336
+Curvature,BankRate,0.0695,0.0243,0.0453
